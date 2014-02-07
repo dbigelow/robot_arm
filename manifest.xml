@@ -1,0 +1,15 @@
+<package>
+  <description brief="robot_arm">
+
+     robot_arm
+
+  </description>
+  <author>daniel</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/robot_arm</url>
+  <depend package="rospy"/>
+
+</package>
+
+
